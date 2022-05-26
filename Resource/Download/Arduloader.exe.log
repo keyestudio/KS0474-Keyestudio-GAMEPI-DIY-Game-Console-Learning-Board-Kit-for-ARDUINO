@@ -1,0 +1,121 @@
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xa1' in position 32: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xa1' in position 32: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xa1' in position 32: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xe6' in position 38: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xe6' in position 38: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xe6' in position 38: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xe6' in position 38: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xe6' in position 38: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xe6' in position 38: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xe6' in position 38: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xe6' in position 38: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xe6' in position 38: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xe6' in position 38: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xc3' in position 38: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xc3' in position 38: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xc3' in position 38: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xe6' in position 38: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xe6' in position 38: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xe6' in position 38: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xe6' in position 38: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xe6' in position 38: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xe6' in position 38: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xc3' in position 38: illegal multibyte sequence
+Traceback (most recent call last):
+  File "ArduloaderWindow.pyc", line 100, in startUpload
+  File "ArduloaderWindow.pyc", line 77, in getUploadArgs
+  File "ArduloaderWindow.pyc", line 19, in <lambda>
+UnicodeEncodeError: 'gbk' codec can't encode character u'\xc3' in position 38: illegal multibyte sequence
+TypeError: onUploadFinish() takes exactly 3 arguments (1 given)
